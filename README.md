@@ -1,4 +1,5 @@
 Shadowrun Dragonfall traduction fr par 1pourcent
+
 -----------------------------------------------------------------------
 Les traductions ont été effectuées par Google Translator Toolkit (GTT)
 Le fichier DragonfallExtended.po est issue du début de traduction initié par Tyr62 et Leucha:
@@ -6,6 +7,7 @@ https://github.com/Tyr62/Shadowrun-Dragonfall/
 
 Les tests de traduction sont effectués sur le patch 1.2.7 de Shadowrun Returns (DLC).
 La version director's cut (Stand alone) corrige des erreurs de syntaxe et d'orthographe de la version 1.2.7.
+
 -----------------------------------------------------------------------
 Logiciel d'édition utilisé : poedit 1.5.4
 

@@ -4,9 +4,17 @@ Les traductions ont été effectuées par Google Translator Toolkit (GTT)
 Le fichier DragonfallExtended.po est issue du début de traduction initié par Tyr62 et Leucha:
 https://github.com/Tyr62/Shadowrun-Dragonfall/
 
-La version du jeu est le patch 1.2.7 de Shadowrun returns. Il ne s'agit donc pas de la version director's cut.
-La version director's cut corrige des erreurs de syntaxe et d'orthographe de la version 1.2.7.
+Les tests de traduction sont effectués sur le patch 1.2.7 de Shadowrun Returns (DLC).
+La version director's cut (Stand alone) corrige des erreurs de syntaxe et d'orthographe de la version 1.2.7.
 -----------------------------------------------------------------------
+Logiciel d'édition utilisé : poedit 1.5.4
+
+-----------------------------------------------------------------------
+Liste des fichiers:
+DragonfallExtended.po	Fichier en cours de traduction à utiliser avec Poedit
+DragonfallExtended.mo	Fichier de traduction compilé automatiquement par Poedit. Ce fichier permet la traduction du jeu.
+Strings.pot		Fichier template récupéré grâce à l'éditeur du jeu. Celui-ci regroupe tout les textes du jeu.
+fr_FR.po		Fichier de traduction récupéré à partir de Strings.pot. Aucunes traduction n'y a été effectuées.
 
 -----------------------------------------------------------------------
 Chaque traduction à un format du type "xx-yyyyy\ntraduction"
@@ -27,5 +35,10 @@ tc-	traduction à corriger
 La traduction a été testée mais ne correspond pas au contexte dans le jeu.
 ok- 	traduction ok
 La traduction est ok et correspond au contexte dans le jeu.
+
+-----------------------------------------------------------------------
+Installation de DragonfallExtended.mo:
+
+
 
 -----------------------------------------------------------------------

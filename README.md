@@ -18,6 +18,9 @@ DragonfallExtended.mo	Fichier de traduction compilé automatiquement par Poedit. 
 Strings.pot		Fichier template récupéré grâce à l'éditeur du jeu. Celui-ci regroupe tout les textes du jeu.
 fr_FR.po		Fichier de traduction récupéré à partir de Strings.pot. Aucunes traduction n'y a été effectuées.
 
+Dossier pomo_final:
+Contient DragonfallExtended.po et DragonfallExtended.mo sans les status et sans les numéros de lignes.
+
 -----------------------------------------------------------------------
 Chaque traduction à un format du type "xx-yyyyy\ntraduction"
 
@@ -26,7 +29,8 @@ yyyyy représente un numéro unique de la ligne traduite
 \n représente un saut de ligne
 traduction représente la traduction de la ligne
 
-Status-------------------
+-------------------
+Status
 nt-	non traduit
 La traduction n'a pas encore été effectuée. Se traduisant dans le jeux par les lignes originales en anglais.
 tv- 	traduction à vérifier
@@ -41,6 +45,9 @@ La traduction est ok et correspond au contexte dans le jeu.
 -----------------------------------------------------------------------
 Installation de DragonfallExtended.mo:
 
-
+Créer un dossier nommé loc dans le module concerné (berlin ou berlin_campaign);
+Créer dans le dossier loc, un dossier fr.
+Copier DragonfallExtended.mo dans le dossier fr.
+Si le jeu a été installé en fr, la campagne de berlin devrait être traduite.
 
 -----------------------------------------------------------------------

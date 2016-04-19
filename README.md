@@ -45,7 +45,8 @@ La traduction est ok et correspond au contexte dans le jeu.
 -----------------------------------------------------------------------
 Installation de DragonfallExtended.mo:
 
-Créer un dossier nommé loc dans le module concerné (berlin ou berlin_campaign);
+Créer un dossier nommé loc dans le dossier data du module concerné (berlin ou berlin_campaign):
+Exemple : C:\Program Files\Shadowrun Returns\Shadowrun_Data\StreamingAssets\ContentPacks\berlin_campaign\data
 Créer dans le dossier loc, un dossier fr.
 Copier DragonfallExtended.mo dans le dossier fr.
 Si le jeu a été installé en fr, la campagne de berlin devrait être traduite.

@@ -6,7 +6,9 @@ Le fichier DragonfallExtended.po est issue du début de traduction initié par Tyr
 https://github.com/Tyr62/Shadowrun-Dragonfall/
 
 Les tests de traduction sont effectués sur le patch 1.2.7 de Shadowrun Returns (DLC).
-La version director's cut (Stand alone) corrige des erreurs de syntaxe et d'orthographe de la version 1.2.7.
+La version director's cut (Stand alone DC) corrige des erreurs de syntaxe et d'orthographe de la version 1.2.7.
+Le problème entre les deux versions sont que les traductions ne seront pas fonctionnelle dans une version à cause de ces erreurs.
+Il faudra donc créer d'autres traductions pour pouvoir avoir les traductions dans les deux versions.
 
 -----------------------------------------------------------------------
 Logiciel d'édition utilisé : poedit 1.5.4
@@ -22,11 +24,11 @@ Dossier pomo_final:
 Contient DragonfallExtended.po et DragonfallExtended.mo sans les status et sans les numéros de lignes.
 
 -----------------------------------------------------------------------
-Chaque traduction à un format du type "xx-yyyyy\ntraduction"
+Chaque traduction à un format du type "xx-yyyyyz-traduction"
 
 xx représente le status de la traduction
 yyyyy représente un numéro unique de la ligne traduite
-\n représente un saut de ligne
+z est un caractère optionnel permettant de differencier la traduction de la version DC(a) du DLC(b)
 traduction représente la traduction de la ligne
 
 -------------------
@@ -49,6 +51,6 @@ Créer un dossier nommé loc dans le dossier data du module concerné (berlin ou be
 Exemple : C:\Program Files\Shadowrun Returns\Shadowrun_Data\StreamingAssets\ContentPacks\berlin_campaign\data
 Créer dans le dossier loc, un dossier fr.
 Copier DragonfallExtended.mo dans le dossier fr.
-Si le jeu a été installé en fr, la campagne de berlin devrait être traduite.
+Mettre français comme langue dans les options du jeu, la campagne de berlin devrait être traduite.
 
 -----------------------------------------------------------------------
